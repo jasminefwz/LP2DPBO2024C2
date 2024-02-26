@@ -4,7 +4,7 @@
 Saya Jasmine Noor Fawzia [2200598] mengerjakan soal LP2 dalam Mata Kuliah DPBO untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan Aamiin
 
 ## Desain Kelas (Diagram)
-![image](https://github.com/jasminefwz/LP2DPBO2024C2/assets/147362810/f98bfabc-5b79-4c84-bbbf-0d8a49354b18)
+![lp2_dpbo](https://github.com/jasminefwz/LP2DPBO2024C2/assets/147362810/8f65eea7-2852-484a-8abb-8d12e5372f5c)
 
 ## Desain Program
 Pada program berbasis OOP dengan jenis pewarisan _Multilevel Inheritance_ tentang Data Product ini memiliki 3 class yang mana satu kelas merupakan orang tua (Product) lalu mewarisi satu kelas lain yaitu anak (Clothing) dan diwariskan lagi ke satu kelas lain yaitu cucu (Shirt). Pada setiap bahasanya memiliki empat file yaitu tiga file untuk per kelas dan satu file untuk main.
